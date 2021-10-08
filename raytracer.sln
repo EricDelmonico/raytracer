@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "raytracer", "raytracer\raytracer.csproj", "{7D726A84-13EB-444C-81ED-24FCBC3155D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D726A84-13EB-444C-81ED-24FCBC3155D6}.Debug|x86.ActiveCfg = Debug|x86
+		{7D726A84-13EB-444C-81ED-24FCBC3155D6}.Debug|x86.Build.0 = Debug|x86
+		{7D726A84-13EB-444C-81ED-24FCBC3155D6}.Release|x86.ActiveCfg = Release|x86
+		{7D726A84-13EB-444C-81ED-24FCBC3155D6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46619F33-C933-475B-8569-523C6F071DD5}
+	EndGlobalSection
+EndGlobal
